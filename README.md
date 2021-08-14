@@ -54,5 +54,5 @@ This is a new project on the newbie section. I will look forward to completing t
 
 ## Author
 
-- Frontend Mentor - [fahim-mahmud](https://www.frontendmentor.io/profile/fahim-mahmud)
+- Frontend Mentor - [moeen-mahmud](https://www.frontendmentor.io/profile/fahim-mahmud)
 - Twitter - [moeen_mahmud](https://twitter.com/moeen_mahmud)

@@ -36,6 +36,7 @@ body {
   font-size: 0.8rem;
   font-weight: 900;
   border: none;
+  cursor: pointer;
 }
 
 /* Main Container Style */

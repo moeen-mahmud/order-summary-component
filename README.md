@@ -27,7 +27,7 @@ Users should be able to view the optimal layout depending on their device's scre
 
 ### Links
 
-- Solution URL: [Git Repo](https://github.com/moeen-mahmud/stats-preview-card-component)
+- Solution URL: [Git Repo](https://github.com/moeen-mahmud/order-summary-component)
 - Live Site URL: [Live Site](https://order-summary-component-nu.vercel.app/)
 
 ## My Process
